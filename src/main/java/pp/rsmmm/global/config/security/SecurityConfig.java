@@ -1,4 +1,4 @@
-package pp.rsmmm;
+package pp.rsmmm.global.config.security;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
